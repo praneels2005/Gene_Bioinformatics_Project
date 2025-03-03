@@ -1,6 +1,5 @@
 # Create a virtual environment: python3 -m venv venv_name
 # activate virtual environment: source venv/bin/activate
-#Hello
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
