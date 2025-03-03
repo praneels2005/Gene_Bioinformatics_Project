@@ -1,0 +1,602 @@
+[
+    {
+        "Page:": 1,
+        "Index: ": 0,
+        "Sequence Name": "Neobenedenia melleni mRNA for heat shock protein 105 (hsp105 gene)",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FN908509.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 1,
+        "Sequence Name": "Synthetic construct clone IMAGE:5382895 heat shock protein 105 (hsp105) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/MG133028.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 2,
+        "Sequence Name": "Tigriopus japonicus heat shock protein 105 (Hsp105) mRNA, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/EU306566.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 3,
+        "Sequence Name": "Mus wagneri mRNA for heat shock protein 105 kDa alpha, complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/D67016.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 4,
+        "Sequence Name": "Mus wagneri mRNA for heat shock protein 105 kDa beta (42 degrees C-specific heat shock protein), complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/D67017.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 5,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant 2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001286503.2?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 6,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant 5, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001349704.2?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 7,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant 1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_006644.4?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 8,
+        "Sequence Name": "Mus musculus heat shock 105kDa/110kDa protein 1 (Hsph1), transcript variant 2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001347534.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 9,
+        "Sequence Name": "Mus musculus heat shock 105kDa/110kDa protein 1 (Hsph1), transcript variant 1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_013559.2?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 10,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant 3, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001286504.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 11,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant 4, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001286505.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 12,
+        "Sequence Name": "Rattus norvegicus heat shock protein family H (Hsp110) member 1 (Hsph1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001011901.2?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 13,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X7, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374043.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 14,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X6, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374042.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 15,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X5, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374041.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 16,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X4, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374040.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 17,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X3, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374039.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 18,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374038.1?report=fasta"
+    },
+    {
+        "Page:": 1,
+        "Index: ": 19,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_054374037.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 0,
+        "Sequence Name": "Homo sapiens isolate CHM13 chromosome 13, alternate assembly T2T-CHM13v2.0",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_060937.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 1,
+        "Sequence Name": "Homo sapiens chromosome 13, GRCh38.p14 Primary Assembly",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_000013.11?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 2,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X7, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_017020364.3?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 3,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X6, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_047430058.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 4,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X5, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_011534888.3?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 5,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X4, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_017020363.3?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 6,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X3, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_017020362.3?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 7,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_005266236.3?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 8,
+        "Sequence Name": "PREDICTED: Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), transcript variant X1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_011534887.4?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 9,
+        "Sequence Name": "Pongo abelii heat shock protein family H (Hsp110) member 1 (HSPH1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001133167.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 10,
+        "Sequence Name": "Pongo abelii isolate AG06213 chromosome 14, NHGRI_mPonAbe1-v2.0_pri, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_071999.2?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 11,
+        "Sequence Name": "PREDICTED: Rattus norvegicus heat shock protein family H (Hsp110) member 1 (Hsph1), transcript variant X2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_063271115.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 12,
+        "Sequence Name": "PREDICTED: Rattus norvegicus heat shock protein family H (Hsp110) member 1 (Hsph1), transcript variant X1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_039089153.2?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 13,
+        "Sequence Name": "Rattus norvegicus strain BN/NHsdMcwi chromosome 12, GRCr8, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_086030.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 14,
+        "Sequence Name": "PREDICTED: Mus musculus heat shock 105kDa/110kDa protein 1 (Hsph1), transcript variant X2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_006504916.4?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 15,
+        "Sequence Name": "PREDICTED: Mus musculus heat shock 105kDa/110kDa protein 1 (Hsph1), transcript variant X1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_030254168.2?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 16,
+        "Sequence Name": "Mus musculus strain C57BL/6J chromosome 5, GRCm39",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_000071.7?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 17,
+        "Sequence Name": "Cricetulus griseus heat shock protein family H (Hsp110) member 1 (Hsph1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001246720.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 18,
+        "Sequence Name": "Xenopus laevis heat shock protein family H (Hsp110) member 1 L homeolog (hsph1.L), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001092168.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 19,
+        "Sequence Name": "Xenopus laevis strain J_2021 chromosome 2L, Xenopus_laevis_v10.1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_054373.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 0,
+        "Sequence Name": "Xenopus laevis strain J_2021 chromosome 2S, Xenopus_laevis_v10.1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_054374.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 1,
+        "Sequence Name": "Homo sapiens heat shock protein family H (Hsp110) member 1 (HSPH1), RefSeqGene on chromosome 13",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NG_053051.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 2,
+        "Sequence Name": "Cricetulus griseus strain 17A/GY chromosome 4, alternate assembly CriGri-PICRH-1.0, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_048597.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 3,
+        "Sequence Name": "Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold182, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_003613630.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 4,
+        "Sequence Name": "Xenopus laevis heat shock protein family H (Hsp110) member 1 S homeolog (hsph1.S), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001093223.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 5,
+        "Sequence Name": "Xenopus tropicalis heat shock protein family H (Hsp110) member 1 (hsph1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001374698.2?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 6,
+        "Sequence Name": "Xenopus tropicalis strain Nigerian chromosome 2, UCB_Xtro_10.0, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_030678.2?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 7,
+        "Sequence Name": "Rattus norvegicus heat shock 105kDa/110kDa protein 1, mRNA (cDNA clone MGC:94016 IMAGE:7121434), complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BC081945.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 8,
+        "Sequence Name": "Xenopus tropicalis heat shock protein 105, mRNA (cDNA clone MGC:75864 IMAGE:5382895), complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BC063346.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 9,
+        "Sequence Name": "Escherichia coli strain HSP105 RNA polymerase sigma S factor (rpoS) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ562050.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 10,
+        "Sequence Name": "Escherichia coli strain HSP105 mannitol-1-phosphate dehydrogenase (mtlD) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ562001.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 11,
+        "Sequence Name": "Escherichia coli strain HSP105 lysine-specific permease (lysP) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ561952.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 12,
+        "Sequence Name": "Escherichia coli strain HSP105 isocitrate dehydrogenase (icdA) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ561903.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 13,
+        "Sequence Name": "Escherichia coli strain HSP105 acyl-CoA synthetase (fadD) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ561854.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 14,
+        "Sequence Name": "Escherichia coli strain HSP105 adenylate cyclase (cyaA) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ561805.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 15,
+        "Sequence Name": "Escherichia coli strain HSP105 aerobic regulator (arcA) gene, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FJ561756.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 16,
+        "Sequence Name": "Homo sapiens HSP105 alpha mRNA, complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AB003334.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 17,
+        "Sequence Name": "Homo sapiens HSP105 beta mRNA, complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AB003333.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 18,
+        "Sequence Name": "Blastocystis sp. ST4 chaperone HSP105 mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_014670759.1?report=fasta"
+    },
+    {
+        "Page:": 3,
+        "Index: ": 19,
+        "Sequence Name": "PST15315-NR MICB1 Mus musculus genomic clone PST15315-NR similar to Hsp105, genomic survey sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DU098576.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 0,
+        "Sequence Name": "PST1254-2 MICB1 Mus musculus genomic clone PST1254-2 similar to Hsp105, genomic survey sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BH912198.2?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 1,
+        "Sequence Name": "pgn1c.pk014.h16 Chicken lymphoid cDNA library (pgn1c) Gallus gallus cDNA clone pgn1c.pk014.h16 5' similar to ref|NP_006635.1 heat shock 105kD; heat shock 105kD alpha; heat shock 105kD beta [Homo sapiens] dbj|BAA34779.1| HSP105 beta [Homo sapiens], mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CB017022.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 2,
+        "Sequence Name": "df83h12.y1 Xenopus laevis oocyte non normalized Xenopus laevis cDNA clone IMAGE:3745991 5' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BE680715.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 3,
+        "Sequence Name": "7a53h09.x1 NCI_CGAP_GC6 Homo sapiens cDNA clone IMAGE:3222497 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BE672159.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 4,
+        "Sequence Name": "7a17f07.x1 NCI_CGAP_GC6 Homo sapiens cDNA clone IMAGE:3219013 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BE503400.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 5,
+        "Sequence Name": "hq06h01.x1 NCI_CGAP_Ut7 Homo sapiens cDNA clone IMAGE:3118609 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW874626.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 6,
+        "Sequence Name": "hn53c10.x1 NCI_CGAP_Co17 Homo sapiens cDNA clone IMAGE:3027378 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW771160.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 7,
+        "Sequence Name": "xq18c08.x2 NCI_CGAP_Ut1 Homo sapiens cDNA clone IMAGE:2750990 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW572452.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 8,
+        "Sequence Name": "xx34f01.x1 NCI_CGAP_Ut1 Homo sapiens cDNA clone IMAGE:2839417 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW571648.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 9,
+        "Sequence Name": "xy09c03.x1 NCI_CGAP_Lym12 Homo sapiens cDNA clone IMAGE:2852644 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW474070.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 10,
+        "Sequence Name": "xw60f09.x1 NCI_CGAP_Pan1 Homo sapiens cDNA clone IMAGE:2832425 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW470142.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 11,
+        "Sequence Name": "xw14e04.x1 NCI_CGAP_Brn53 Homo sapiens cDNA clone IMAGE:2827998 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW316651.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 12,
+        "Sequence Name": "xe81b11.x1 NCI_CGAP_Brn35 Homo sapiens cDNA clone IMAGE:2614269 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW103624.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 13,
+        "Sequence Name": "xc60b04.x1 NCI_CGAP_Eso2 Homo sapiens cDNA clone IMAGE:2588623 3' similar to TR:O95739 O95739 HSP105 BETA PROTEIN, mRNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AW085874.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 14,
+        "Sequence Name": "Blastocystis sp. subtype 4 strain WR1 chromosome Unknown seqid_0232, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_014569315.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 15,
+        "Sequence Name": "Blastocystis sp. subtype 4 strain WR1 seqid_0232, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JPUL02000232.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 16,
+        "Sequence Name": "Dentiscutata heterogama partial rpb1 gene, strain BEG35, clone Hsp105-7, exons 1-5",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/HG316012.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 17,
+        "Sequence Name": "Mus musculus heat shock protein 1B (Hspa1b), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_010478.3?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 18,
+        "Sequence Name": "Mus musculus DnaJ heat shock protein family (Hsp40) member B1 (Dnajb1), transcript variant 2, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001308227.1?report=fasta"
+    },
+    {
+        "Page:": 4,
+        "Index: ": 19,
+        "Sequence Name": "Mus musculus DnaJ heat shock protein family (Hsp40) member B1 (Dnajb1), transcript variant 1, mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_018808.3?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 0,
+        "Sequence Name": "Mus musculus lactalbumin, alpha (Lalba), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_010679.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 1,
+        "Sequence Name": "Rattus norvegicus DnaJ heat shock protein family (Hsp40) member B1 (Dnajb1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001395149.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 2,
+        "Sequence Name": "Mus musculus heat shock protein 25, pseudogene 1 (Hsp25-ps1) on chromosome 13",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NG_001396.2?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 3,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00002, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000002.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 4,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00006, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000006.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 5,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00011, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000011.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 6,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00038, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000038.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 7,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00708, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000708.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 8,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig04609, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01004609.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 9,
+        "Sequence Name": "Dioscorea alata cultivar TDa95/00328 chromosome 15, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CM037025.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 10,
+        "Sequence Name": "Dioscorea alata cultivar TDa95/00328 chromosome 15, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAFBII010000015.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 11,
+        "Sequence Name": "Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: V",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AP019874.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 12,
+        "Sequence Name": "Aspergillus oryzae RIB40 DNA, chromosome 5",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_036439.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 13,
+        "Sequence Name": "Aspergillus oryzae RIB40 unnamed protein product (AO090113000129), partial mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_001824260.3?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 14,
+        "Sequence Name": "Handroanthus impetiginosus isolate UFG-1 CDL12_scaffold997, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NKXS01000997.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 15,
+        "Sequence Name": "Handroanthus impetiginosus isolate UFG-1 CDL12_scaffold5144, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NKXS01005143.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 16,
+        "Sequence Name": "Handroanthus impetiginosus isolate UFG-1 CDL12_scaffold6996, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NKXS01006995.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 17,
+        "Sequence Name": "Thalassiosira pseudonana CCMP1335 chromosome 1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_012064.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 18,
+        "Sequence Name": "Thalassiosira pseudonana CCMP1335 heat shock protein belonging to the HSP70 family (HSP70_1), mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_002286707.1?report=fasta"
+    },
+    {
+        "Page:": 5,
+        "Index: ": 19,
+        "Sequence Name": "TSA: Agkistrodon contortrix contortrix Acont_HSP105 transcribed RNA sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/GDAY02001098.1?report=fasta"
+    }
+]

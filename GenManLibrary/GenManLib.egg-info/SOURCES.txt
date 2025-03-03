@@ -1,0 +1,8 @@
+README.md
+setup.py
+GenManLib/__init__.py
+GenManLib/myfunctions.py
+GenManLib.egg-info/PKG-INFO
+GenManLib.egg-info/SOURCES.txt
+GenManLib.egg-info/dependency_links.txt
+GenManLib.egg-info/top_level.txt
