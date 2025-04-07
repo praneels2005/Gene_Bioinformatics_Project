@@ -1,1 +1,27 @@
+National Library of Medicine GenBank API
+
+The NCBI's E-utilities, which technically constitute as the GenBank API, have major limitations when you're trying to collect all the genetic sequences associated with protein strains, especially for tasks like:
+
+- Retrieving all variants or strains of a specific protein (e.g., spike protein across different viruses or organisms)
+- Extracting full FASTA sequences for every result in a large search query
+- Pagination, as the API doesn’t always support deep pagination well or expose all entries
+- Querying requires precise search terms, increasing the complexity of the API, therefore failing to be "user-friendly" 
+
+Instead of interfacing with a documented API, this personally designed API leverages web scraping tools and libraries(Selenium,Playwright, and BeautifulSoup) to
+simulate user interaction and extract content directly from the site's dynamic web pages. This approach comes with several benefits:
+
+- all strain-specific entries of a protein will be available
+- extracting whatever a user sees on their browser, making data reliable
+- Work around the lack of a dedicated strain-level protein API endpoint
+
+Using Selenium and Playwright, the scraper navigates through the GenBank web interface, parses the relevant HTML elements, and retrieves genetic sequences and metadata (e.g., protein strain names, accession numbers, FASTA links). 
+This unique API mimics the behavior of a user in a browser to make otherwise inaccessible data available for large-scale computational use.
+
+This approach enables researchers to:
+
+- Access and aggregate genomic data at scale.
+- Automate data collection that would otherwise require repetitive manual input.
+- Integrate sequence retrieval directly into bioinformatics workflows by utilizing the custom gene maniuplation techniques libarary
+
+Attached is the URL to access the MongoDB database which stores proteins as records and their respective various strains as documents:
 mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongodb-vscode+1.10.0
